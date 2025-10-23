@@ -16,7 +16,6 @@ Deskripsi singkat tentang project Anda. Jelaskan apa yang project ini lakukan, t
 - 📱 **Mobile Friendly** - Pengalaman terbaik di mobile
 
 ## 📂 Daftar Project
-
 ### 🛒 [E-Commerce Website](https://github.com/username/ecommerce-project)
 **Deskripsi**: Website toko online dengan cart, checkout, dan product catalog
 **Teknologi**: HTML, CSS, JS, Bootstrap 5, Local Storage
@@ -27,14 +26,22 @@ Deskripsi singkat tentang project Anda. Jelaskan apa yang project ini lakukan, t
 **Teknologi**: HTML, CSS, JS, Bootstrap 
 [🔗 Live Demo](https://ikyyart.github.io/IkkyWeb.Portofolio.github.io/)
 
-## 📸 Screenshots
+### 🎵 [Music Player](https://github.com/username/music-player)
+**Deskripsi**: Web-based music player dengan playlist, kontrol audio, dan UI yang elegant
+**Teknologi**: HTML, CSS, JS, Bootstrap
+[🔗 Live Demo](https://ikyyart.github.io/MyFavoriteMusic.github.io/) 
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
+### 📝 [My To-Do List](https://github.com/username/my-todo-list)
+**Deskripsi**: Aplikasi manajemen tugas sehari-hari dengan fitur organizasi
+**Teknologi**: HTML, CSS, JS, Bootstrap, Local Storage
+[🔗 Live Demo](https://ikyyart.github.io/Whislist.github.io/) 
+
+### 🛍️ [Wishlist App](https://github.com/username/wishlist)
+**Deskripsi**: Personal wishlist manager untuk mencatat barang yang diinginkan
+**Teknologi**: HTML, CSS, JS, Bootstrap, Local Storage
+[🔗 Live Demo](https://ikyyart.github.io/ListTugas.github.io) 
 
 ## 🛠️ Teknologi yang Digunakan
-
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Framework**: Bootstrap 5.x
 - **Icons**: Font Awesome / Bootstrap Icons
